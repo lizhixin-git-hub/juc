@@ -69,7 +69,6 @@ public class OrderGenerateUtils {
         }
     }
 
-
     public static void main(String[] args) {
         List<String> orderNos = Collections.synchronizedList(new ArrayList<>());
         IntStream.range(0, 8000).parallel().forEach(i -> orderNos.add(generateOrderNo()));
