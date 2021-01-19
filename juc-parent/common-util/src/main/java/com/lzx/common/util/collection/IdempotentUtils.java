@@ -6,6 +6,7 @@ import org.apache.commons.collections4.map.LRUMap;
  * https://www.cnblogs.com/vipstone/p/13328386.html
  * https://www.ngui.cc/51cto/show-33275.html
  * https://www.cnblogs.com/xhq1024/p/10650127.html
+ * 重复提交：https://blog.51cto.com/9250070/2517295
  * 幂等性判断
  */
 public class IdempotentUtils {
