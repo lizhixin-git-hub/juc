@@ -15,6 +15,7 @@ import java.util.TreeMap;
 
 /**
  * https://mp.weixin.qq.com/s/uV41OyvcTCL-2uRtLYuw-A
+ * https://blog.csdn.net/weixin_42197377/article/details/103358047
  * 并发重复请求
  */
 public class ReqDedupeHelper {
