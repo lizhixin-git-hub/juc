@@ -17,6 +17,9 @@ import com.sun.image.codec.jpeg.JPEGCodec;
 import com.sun.image.codec.jpeg.JPEGEncodeParam;
 import com.sun.image.codec.jpeg.JPEGImageEncoder;
 
+/**
+ * https://mp.weixin.qq.com/s/Ub-43yBs66m_HiYjySuyOg
+ */
 public class ImgDeal {
     private final static int FONTSIZE = 24;
 
