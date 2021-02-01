@@ -8,6 +8,7 @@ import java.util.Random;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
+ * https://mp.weixin.qq.com/s/Wab7Vt106lK-1VGegJhMow
  * 滑动时间窗口限流工具
  * 本限流工具只适用于单机版，如果想要做全局限流，可以按本程序的思想，用redis的List结构去实现
  *
